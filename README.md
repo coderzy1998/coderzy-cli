@@ -24,13 +24,21 @@ react项目模块已经帮你配置
 coderzy create your-project-name
 ```
 
+选择语言模板
+
+* JavaScript(default)
+* TypeScript
+
+选择包管理工具
+
+* yarn
+* npm(default)
+
 自动拉取项目模板、安装项目依赖、自动启动项目
 
 后续会持续更新脚手架
 
 脚手架地址：https://github.com/coderzy1998/coderzy-cli
-
-react项目模板地址：https://github.com/coderzy1998/coderzy-react-temp
 
 ## 项目开发
 
